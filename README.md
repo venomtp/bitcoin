@@ -1,0 +1,2 @@
+# bitcoin
+tryning new project
